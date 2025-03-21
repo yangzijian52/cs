@@ -1,0 +1,8 @@
+name: CS
+version: 1.0
+main: com.example.cs.CSPlugin
+api-version: 1.21
+commands:
+  cs:
+    description: 跨服传送
+    usage: /cs

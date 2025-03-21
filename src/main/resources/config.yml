@@ -1,0 +1,2 @@
+# 目标服务器名称（需与Velocity配置一致）
+target-server: "lobby"
